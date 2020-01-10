@@ -1,6 +1,4 @@
-package com.kevin.collections;
-
-import java.util.concurrent.ConcurrentHashMap;
+package com.kevin.collections.map;
 
 /**
  * @author caonanqing
@@ -87,12 +85,4 @@ public class ConcurrentHashMapSource {
      *
      */
 
-    public static void main(String[] args) {
-
-        ConcurrentHashMap<String,String> map = new ConcurrentHashMap<String,String>();
-        map.put("","");
-
-    }
-
-    
 }

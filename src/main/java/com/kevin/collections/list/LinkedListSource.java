@@ -1,4 +1,4 @@
-package com.kevin.collections;
+package com.kevin.collections.list;
 
 /**
  * @author caonanqing
